@@ -2,6 +2,7 @@
   "name": "firstpackage",
   "version": "0.0.0",
   "description": "First Package",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "test",
@@ -30,6 +31,7 @@
     "commitlint": "^19.8.1",
     "eslint": "^9.35.0",
     "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
     "husky": "^9.1.7",
     "prettier": "^3.6.2",
     "tsup": "^8.5.0",
