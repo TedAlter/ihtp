@@ -1,6 +1,6 @@
 {
   "name": "firstpackage",
-  "version": "0.7.0",
+  "version": "1.0.0",
   "description": "First Package",
   "type": "module",
   "main": "index.js",
